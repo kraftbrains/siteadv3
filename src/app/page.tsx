@@ -97,7 +97,7 @@ export default function Home() {
       </section>
 
       {/* Seção Depoimentos */}
-      <section id="depoimentos" className="py-16 px-4 bg-gray-50 border-t border-gray-200">
+      <section id="depoimentos" className="py-16 px-4 bg-gray-50 border-t border-gray-200 mt-20">
         <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-center text-gray-700">Depoimentos</h2>
         <div className="flex flex-col gap-8 max-w-4xl mx-auto">
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
