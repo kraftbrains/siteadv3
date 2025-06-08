@@ -92,49 +92,70 @@ export default function Home() {
         <h2 className="text-2xl sm:text-3xl font-bold mb-8 text-center text-gray-700">Depoimentos</h2>
         <div className="flex flex-col gap-8 max-w-4xl mx-auto">
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
-            <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            <div className="flex flex-col items-center">
+              <Image src="/siteadv3/google.svg" alt="Google" width={32} height={32} className="mb-1" />
+              <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            </div>
             <div>
               <div className="font-semibold text-gray-700">Ana Paula Gomes Martins <span className="text-xs text-gray-500">2025-01-28</span></div>
               <p className="text-gray-700">Foi Uma Experiência Muito Boa,Ótimo Atendimento,Sem contar na Agilidade em Resolver o meu Problema!! Imensamente Grata ao Dr Luis Felipe! Sou de Minas Gerais e consegui resolver tudo através do telefone com ele. Gratidão</p>
             </div>
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
-            <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            <div className="flex flex-col items-center">
+              <Image src="/siteadv3/google.svg" alt="Google" width={32} height={32} className="mb-1" />
+              <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            </div>
             <div>
               <div className="font-semibold text-gray-700">Tania Silva <span className="text-xs text-gray-500">2025-01-24</span></div>
               <p className="text-gray-700">Gostei muito do trabalho dele, sempre honesto, claro nas explicações, muito atencioso.</p>
             </div>
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
-            <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            <div className="flex flex-col items-center">
+              <Image src="/siteadv3/google.svg" alt="Google" width={32} height={32} className="mb-1" />
+              <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            </div>
             <div>
               <div className="font-semibold text-gray-700">Ezeli Martins de Lima <span className="text-xs text-gray-500">2025-01-23</span></div>
               <p className="text-gray-700">Muito bem atendida graças a Deus</p>
             </div>
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
-            <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            <div className="flex flex-col items-center">
+              <Image src="/siteadv3/google.svg" alt="Google" width={32} height={32} className="mb-1" />
+              <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            </div>
             <div>
               <div className="font-semibold text-gray-700">Leonardo Emmanuel Zanona Francisco <span className="text-xs text-gray-500">2025-01-22</span></div>
               <p className="text-gray-700">Advogado atencioso, responde rápido com educação. Muito informativo e responde todas as dúvidas.</p>
             </div>
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
-            <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            <div className="flex flex-col items-center">
+              <Image src="/siteadv3/google.svg" alt="Google" width={32} height={32} className="mb-1" />
+              <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            </div>
             <div>
               <div className="font-semibold text-gray-700">Daniel Souza pereira <span className="text-xs text-gray-500">2025-01-16</span></div>
               <p className="text-gray-700">Foi ótimo o atendimento dr Luiz Felipe Mariano muito atencioso tirou todas as minhas dúvidas super recomendo</p>
             </div>
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
-            <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            <div className="flex flex-col items-center">
+              <Image src="/siteadv3/google.svg" alt="Google" width={32} height={32} className="mb-1" />
+              <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            </div>
             <div>
               <div className="font-semibold text-gray-700">Rosi Da luz <span className="text-xs text-gray-500">2024-12-18</span></div>
               <p className="text-gray-700">Recomendo a quem precisar o advogado Luiz Felipe Mariano, muito competente. Obrigada Luiz Felipe por essa conquista.</p>
             </div>
           </div>
           <div className="flex flex-col sm:flex-row items-center gap-4 bg-white p-6 rounded shadow">
-            <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            <div className="flex flex-col items-center">
+              <Image src="/siteadv3/google.svg" alt="Google" width={32} height={32} className="mb-1" />
+              <div className="flex items-center gap-1 text-yellow-400 text-xl">★★★★★</div>
+            </div>
             <div>
               <div className="font-semibold text-gray-700">ADERAIL SIMIONI <span className="text-xs text-gray-500">2024-12-09</span></div>
               <p className="text-gray-700">É um profissional de confiança, atencioso com os clientes, e sempre dando retorno conforme o andamento de seu trabalho.</p>
