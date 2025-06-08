@@ -9,7 +9,10 @@ export default function Home() {
   return (
     <div className="flex flex-col min-h-screen font-[family-name:var(--font-geist-sans)] bg-white">
       {/* Topo com background e menu */}
-      <header className="relative w-full h-[650px] sm:h-[520px] flex flex-col justify-between bg-cover bg-[center_top]" style={{ backgroundImage: 'url(/siteadv3/idosoBg.png)' }}>
+      <header
+          className="relative w-full min-h-[350px] h-[500px] sm:h-[620px] lg:h-[750px] flex flex-col justify-between bg-cover bg-center lg:bg-[center_top]"
+          style={{ backgroundImage: `url(/siteadv3/idosoBg.png)` }}
+      >
         <nav className="flex justify-between items-center px-4 sm:px-8 py-4 sm:py-6 bg-black/40 backdrop-blur-sm relative z-10">
           <div className="flex items-center gap-2">
             {/* Sem logo */}
